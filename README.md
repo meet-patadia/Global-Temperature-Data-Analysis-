@@ -59,3 +59,5 @@ Technical Architecture
 - Trend decomposition (additive/multiplicative models)
 - Change point detection (PELT algorithm variant)
 - Uncertainty propagation through Monte Carlo methods
+
+Credits: Hetvi Modi, Tanvi Jadhav
